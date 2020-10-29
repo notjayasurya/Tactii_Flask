@@ -1,0 +1,6 @@
+This is Day - 0 [29-10-2020].
+
+Day - 0:
+ 	Checking out the functions of git such as commit, push, add, log, status and other functions. It feels nice and really feels like a real programmer
+to log our work continously whenever any changes is made.
+

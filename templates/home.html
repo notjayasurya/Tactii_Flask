@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title><h1>HomePage</h1></title>
+</head>
+<body>
+	<h1> Welcome to the Homepage</h1>
+	{% for posts in posts %}
+	<h1>{{posts.name}}</h1>
+	<p>{{posts.runs_scored}} runs scored with average of {{posts.average}}</p>
+	<p>Batting type{{posts.batting}}</p>
+	{% endfor %}
+</body>
+</html>

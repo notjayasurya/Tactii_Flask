@@ -5,8 +5,12 @@ Day - 0:
 to log our work continously whenever any changes is made.
 
 Day - 1:
-	Created my brand new flask project. Finished some pandas work.
+	Created my brand new flask project. 
+	Traversed through some pandas exercises.
 
 Day - 2:
 	Learned how to link two or more webpages and learned how to create forms and iterate through them in flask.
+	Documented some ideas and notes based on LINEAR ALGEBRA FOR MACHINE LEARNING.
+	created forms [login, and register] pages for accepting user input for account creating using flask.
+	Looked for what is FAST API and mongo DB specialities and usages.
 	

@@ -4,3 +4,9 @@ Day - 0:
  	Checking out the functions of git such as commit, push, add, log, status and other functions. It feels nice and really feels like a real programmer
 to log our work continously whenever any changes is made.
 
+Day - 1:
+	Created my brand new flask project. Finished some pandas work.
+
+Day - 2:
+	Learned how to link two or more webpages and learned how to create forms and iterate through them in flask.
+	

@@ -3,3 +3,10 @@ Day - 0 [29-10-2020]:
 	Started out with the tutorial of what is flask and the deployment aspects of flask from youtube.
 	The Youtube link and the channel for reference is : https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH
 	Youtube channel name: Corey Schafer.
+
+Day - 1.
+
+	Installed Flask and the required dependency.
+	Learned how to traverse through different app.route("/").
+	Learned how to create forms.
+	

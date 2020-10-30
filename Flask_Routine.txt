@@ -10,3 +10,7 @@ Day - 1.
 	Learned how to traverse through different app.route("/").
 	Learned how to create forms.
 	
+Day -2: 
+	Created 3 more webpages [html pages] namely login, register, and about pages
+	Created a from where it accepts the username, password, email id and other stuffs.
+	Linked all the three webpages and tested it in production.

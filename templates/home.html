@@ -1,14 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title><h1>HomePage</h1></title>
-</head>
-<body>
+{% extends "layout.html" %}
+{% block content %}
 	<h1> Welcome to the Homepage</h1>
 	{% for posts in posts %}
-	<h1>{{posts.name}}</h1>
-	<p>{{posts.runs_scored}} runs scored with average of {{posts.average}}</p>
-	<p>Batting type{{posts.batting}}</p>
+				<article class="media content-section">
+			  <div class="media-body">
+			    <div class="article-metadata">
+			      <a class="mr-2" href="#">{{ posts.name }}</a>
+			      <small class="text-muted">{{ posts.runs_scored }}</small>
+			    </div>
+			    <h2><a class="article-title" href="#">{{ posts.average }}</a></h2>
+			    <p class="article-content">{{ posts.batting }}</p>
+			  </div>
+			</article>
 	{% endfor %}
-</body>
-</html>
+{% endblock content %}

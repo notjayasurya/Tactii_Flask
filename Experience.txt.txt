@@ -14,3 +14,8 @@ Day - 2:
 	created forms [login, and register] pages for accepting user input for account creating using flask.
 	Looked for what is FAST API and mongo DB specialities and usages.
 	
+Day - 3: 
+	Created Login forms and cleared out few bugs which prevented it from submission of the data using POST
+	Saw reference videos related to FAST API and understood what was API and how Fast API is faster, and reliable
+	Worked on some Flask related videos to know more about the micro framework.
+	Watched and worked out some math related to machine Learning.
